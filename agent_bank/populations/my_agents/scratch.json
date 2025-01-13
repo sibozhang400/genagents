@@ -1,0 +1,11 @@
+{
+  "first_name": "Sibo",
+  "last_name": "Zhang",
+  "age": 34,
+  "occupation": "PhD",
+  "interests": [
+    "reading",
+    "hiking",
+    "coding"
+  ]
+}

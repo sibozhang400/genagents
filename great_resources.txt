@@ -1,0 +1,10 @@
+LLM Explained:
+- 3Blue1Brown: 
+	- brief explain: https://www.youtube.com/watch?v=LPZh9BOjkQs
+	- transformers visually: https://www.youtube.com/watch?v=wjZofJX0v4M&t=29s
+- Andrej Karpathy (OpenAI Lead Engineer)
+	- Intro to LLM: https://www.youtube.com/watch?v=zjkBMFhNj_g
+
+
+Paper Explained
+- https://www.youtube.com/watch?v=tDzZgm6hHfM

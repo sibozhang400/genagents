@@ -1,0 +1,33 @@
+[
+  {
+    "node_id": 0,
+    "node_type": "observation",
+    "content": "Went for a hike in the mountains.",
+    "importance": 60,
+    "created": 1,
+    "last_retrieved": 1,
+    "pointer_id": null
+  },
+  {
+    "node_id": 1,
+    "node_type": "reflection",
+    "content": "I really enjoy spending time in nature, especially when I can explore new trails and enjoy the beauty of the mountains.",
+    "importance": 85,
+    "created": 0,
+    "last_retrieved": 0,
+    "pointer_id": [
+      0
+    ]
+  },
+  {
+    "node_id": 2,
+    "node_type": "reflection",
+    "content": "Hiking not only provides me with physical exercise, but it also helps me clear my mind and connect with the outdoors.",
+    "importance": 90,
+    "created": 0,
+    "last_retrieved": 0,
+    "pointer_id": [
+      0
+    ]
+  }
+]
